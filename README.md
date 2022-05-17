@@ -1,2 +1,2 @@
 # Preba2
-Como no estas
+Como si estas estas
